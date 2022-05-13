@@ -6,9 +6,7 @@ public class IEEE754 {
 	/**
 	 *
 	 * Paul Bernius
-	 * A20296830
 	 *
-	 * CS 3443
 	 * PGM-IEEE754
 	 * April 22, 2022
 	 *

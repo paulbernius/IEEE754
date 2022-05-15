@@ -1,17 +1,19 @@
-# IEEE754
+# IEEE754 :shipit:
 ----
 
 <a href="https://img.shields.io/badge/License-undefined-brightgreen"><img src="https://img.shields.io/badge/License-undefined-brightgreen"></a>
+<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Language-Java-orange"></a>
 
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
+
+## :book: Table of Contents
+- [Description](# :information_source: Description)
+- [Installation](# :calling: Installation)
+- [Usage](# :wrench: Usage)
 - [Contribution](#contribution)
 - [Test Instructions](#test-instructions)
 - [Contact Information](#contact-information)
 
-### Description
+### :information_source: Description
 Program implementing IEEE754 standard for floating point conversion. Program adds and multiplies two IEEE754 floating point numbers.
 <br/>
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Float_example.svg/1180px-Float_example.svg.png?raw=true)
@@ -27,7 +29,7 @@ The IEEE Standard for Floating-Point Arithmetic (IEEE 754) is a technical standa
 
 
 
-### Installation
+### :calling: Installation
 
 ```
 $ git clone https://github.com/paulbernius/IEEE754
@@ -36,7 +38,7 @@ $ javac ieee754.java
 $ java ieee754
 ```
 
-### Usage
+### :wrench: Usage
 
 ![alt text](https://github.com/paulbernius/IEEE754/blob/main/sc.png?raw=true)
 
@@ -53,5 +55,7 @@ xxxxxxxxx
 [Github Profile](https://github.com/paulbernius)
 <br/><br/>
 paul.bernius@okstate.edu
+
+
 
 

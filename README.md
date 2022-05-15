@@ -6,7 +6,7 @@
 
 
 ## :book: Table of Contents
-- [Description](# :information_source: Description)
+- [Description](#ℹ️ Description)
 - [Installation](# :calling: Installation)
 - [Usage](# :wrench: Usage)
 - [Contribution](#contribution)

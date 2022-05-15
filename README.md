@@ -51,7 +51,7 @@ xxxxxxxxx
 ### References
 “IEEE 754.” Wikipedia, Wikimedia Foundation, 2 May 2022, https://en.wikipedia.org/wiki/IEEE_754.
 
-### Contact-Information
+### :mailbox: Contact-Information
 [Github Profile](https://github.com/paulbernius)
 <br/><br/>
 paul.bernius@okstate.edu

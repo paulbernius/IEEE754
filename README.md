@@ -1,4 +1,4 @@
-# IEEE754 :shipit:
+# IEEE754
 ----
 
 <a href="https://img.shields.io/badge/License-undefined-brightgreen"><img src="https://img.shields.io/badge/License-undefined-brightgreen"></a>
@@ -7,7 +7,7 @@
 
 ## :book: Table of Contents
 - [Description](#ℹ️ Description)
-- [Installation](# :calling: Installation)
+- [Installation](#:calling: Installation)
 - [Usage](# :wrench: Usage)
 - [Contribution](#contribution)
 - [Test Instructions](#test-instructions)

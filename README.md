@@ -29,16 +29,10 @@ The IEEE Standard for Floating-Point Arithmetic (IEEE 754) is a technical standa
 
 ### Installation
 ```
-git clone https://github.com/paulbernius/IEEE754
-```
-```
-cd IEEE754
-```
-```
-javac ieee754.java
-```
-```
-java ieee754
+$ git clone https://github.com/paulbernius/IEEE754
+$ cd IEEE754
+$ javac ieee754.java
+$ java ieee754
 ```
 
 ### Usage

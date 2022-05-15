@@ -28,6 +28,7 @@ The IEEE Standard for Floating-Point Arithmetic (IEEE 754) is a technical standa
 
 
 ### Installation
+
 ```
 $ git clone https://github.com/paulbernius/IEEE754
 $ cd IEEE754
@@ -36,7 +37,7 @@ $ java ieee754
 ```
 
 ### Usage
-xxxxxxxxx
+
 ![alt text](https://github.com/paulbernius/IEEE754/blob/main/sc.png?raw=true)
 
 ### Contribution
@@ -50,6 +51,7 @@ xxxxxxxxx
 
 ### Contact-Information
 [Github Profile](https://github.com/paulbernius)
+<br/><br/>
 paul.bernius@okstate.edu
 
 

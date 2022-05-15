@@ -48,7 +48,7 @@ xxxxxxxx
 ### Test-Instructions
 xxxxxxxxx
 
-### References
+### :page_facing_up: References
 “IEEE 754.” Wikipedia, Wikimedia Foundation, 2 May 2022, https://en.wikipedia.org/wiki/IEEE_754.
 
 ### :mailbox: Contact-Information

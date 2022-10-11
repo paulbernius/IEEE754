@@ -6,8 +6,8 @@
 
 
 ## :book: Table of Contents
-- [Description](#ℹ️ Description)
-- [Installation](#:calling: Installation)
+- [Description](#information_source-description)
+- [Installation](#calling-installation)
 - [Usage](#wrench-usage)
 - [Contribution](#contribution)
 - [Test Instructions](#test-instructions)
